@@ -1,0 +1,55 @@
+.jumbotron {
+  box-sizing: border-box;
+  height: 600px;
+  background-color: rgba(248, 242, 242, 0);
+  color: white;
+}
+
+.main-button-container {
+  margin-top: 175px;
+  max-width: 610px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.timer-p {
+  margin-top: 40px;
+}
+
+.answer:hover {
+  background: rgb(2, 107, 107);
+}
+
+.answer {
+  padding-top: 7px;
+  height: 45px;
+  color: black;
+  padding-left: 14px;
+  background-color: white;
+  border-radius: 4px;
+}
+
+.img-wrong {
+  margin-top: 40px;
+}
+
+.first-answer {
+  margin-top: 40px;
+}
+
+.reset-button {
+  margin-top: 40px;
+}
+
+.summary-correct {
+  margin-top: 40px;
+}
+
+body {
+  background-image: URL("https://image.tmdb.org/t/p/w780/p6frW7qR3wUbssM25BS8BlzyoKc.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.text-center {
+  color: white;
+};
